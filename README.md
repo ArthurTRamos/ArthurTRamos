@@ -1,7 +1,9 @@
-### Hello! I'm Arthur, computer science student at USP (University Of São Paulo)
-##
+## Hello! I'm Arthur, computer science student at USP (University Of São Paulo)
+
+<br>
+
 ### Main programming Languages
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
 </div>
