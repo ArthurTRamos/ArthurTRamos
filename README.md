@@ -2,8 +2,10 @@
 
 ### Main programming Languages
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Haskell" height="75" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original-wordmark.svg">
 </div>
 
 ##
