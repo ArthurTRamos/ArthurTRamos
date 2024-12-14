@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Hi 👋, I'm Arthur Ramos</h1>
 <h3 align="center">A computer science student at University of São Paulo (USP-Brazil)</h3>
 
