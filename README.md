@@ -2,7 +2,9 @@
 
 **`Computer Science Student`**
 
-My name is Arthur Trottmann Ramos, I'm 20 years old and I'm from Leme-SP. I completed high school with a technical degree in Administration and I'm currently pursuing a Bachelor's degree in Computer Science at the University of São Paulo (USP), in São Carlos. My main interests lie in data-related fields and machine learning.
+Graduating in Computer Science from USP São Carlos (7th semester), with a solid foundation in algorithms and experience in building
+end-to-end applications (React, Node.js, FastAPI). I am looking for an internship in Software Engineering or Full-Stack Development
+to design and implement efficient and scalable systems.
 
 <p align="left">
     <a href="https://github.com/ArthurTRamos?tab=followers">
