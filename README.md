@@ -18,7 +18,7 @@ to design and implement efficient and scalable systems.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Coding Languages and Frameworks
 <img 
     align="left" 
     alt="C++" 
