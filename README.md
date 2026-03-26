@@ -34,7 +34,7 @@ Open to internship opportunities in **Software Engineering**, **Full-Stack Devel
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔍 RAG — CDC Assistant | Retrieval-Augmented Generation app for answering questions about Brazil's Consumer Defense Code | Python, LLM, RAG |
+| 🔍 [RAG — CDC Assistant](https://github.com/ArthurTRamos/RAG-CDC) | Retrieval-Augmented Generation app for answering questions about Brazil's Consumer Defense Code | Python, LLM, RAG |
 | 📱 Exercise Tracker | Mobile app for logging and analyzing physical exercise statistics | In progress |
 | 🛒 [Mercado Verde](https://github.com/ArthurTRamos/Grocery-Store---Web-Project) | Full-stack e-commerce app with cart, inventory management, and AI recipe generation | React, Node.js, MongoDB |
 | 🎓 [School DB](https://github.com/ArthurTRamos/Projeto_Final-BD) | Relational database for a school management system, normalized to BCNF with index benchmarking | PostgreSQL, SQL |
