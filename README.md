@@ -1,15 +1,12 @@
 # Hi, I'm Arthur 👋
 
-**`Computer Science Student @ USP São Carlos (7th semester)`**
+**`Computer Science Student @ USP São Carlos (8th semester)`**
 
 I'm a software engineering student with a strong foundation in algorithms and data structures, and hands-on experience building full-stack applications and data-driven systems. I enjoy working across the stack — from designing databases to building user-facing features.
 
 Currently focused on:
 
-- 🔍 A **RAG application** for questions related to Brazil's Consumer Defense Code (CDC)
-- 📱 A **mobile app** for tracking and analyzing physical exercise statistics
-
-Open to internship opportunities in **Software Engineering**, **Full-Stack Development**, or **Data Science**.
+- 📱 A **web application** for tracking and analyzing physical exercise statistics
 
 ---
 
@@ -35,7 +32,6 @@ Open to internship opportunities in **Software Engineering**, **Full-Stack Devel
 | Project | Description | Stack |
 |---|---|---|
 | 🔍 [RAG — CDC Assistant](https://github.com/ArthurTRamos/RAG-CDC) | Retrieval-Augmented Generation app for answering questions about Brazil's Consumer Defense Code | Python, LLM, RAG |
-| 📱 [Exercise Tracker](https://github.com/ArthurTRamos/AnaliseFit) | Mobile app for logging and analyzing physical exercise statistics | In progress |
 | 🛒 [Mercado Verde](https://github.com/ArthurTRamos/Grocery-Store---Web-Project) | Full-stack e-commerce app with cart, inventory management, and AI recipe generation | React, Node.js, MongoDB |
 | 🎓 [School DB](https://github.com/ArthurTRamos/Projeto_Final-BD) | Relational database for a school management system, normalized to BCNF with index benchmarking | PostgreSQL, SQL |
 
