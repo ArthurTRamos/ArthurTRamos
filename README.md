@@ -4,10 +4,6 @@
 
 I'm a software engineering student with a strong foundation in algorithms and data structures, and hands-on experience building full-stack applications and data-driven systems. I enjoy working across the stack — from designing databases to building user-facing features.
 
-Currently focused on:
-
-- 📱 A **web application** for tracking and analyzing physical exercise statistics
-
 ---
 
 ### 🛠️ Languages & Frameworks
